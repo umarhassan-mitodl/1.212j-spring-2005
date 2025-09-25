@@ -108,4 +108,4 @@ Academic Honesty Policy for 1.212J / ESD.221J
 
 The Department of Civil and Environmental Engineering adheres to the strictest standards of academic honesty. An important aspect of achieving these standards is to be sure that students are aware of expectations of faculty as regards academic honesty. This statement is an attempt to clarify the faculty's expectations in 1.212J / ESD.221J.
 
-If you have any questions about how these policies relate to a specific situation, you should speak to Professor Sussman for clarification. MIT's academic honesty policy can be found at the following link: {{% resource_link "5ab9d30b-65c3-4304-b5a1-6b2e0f8f03df" "Policies and Procedures" %}}.
+If you have any questions about how these policies relate to a specific situation, you should speak to Professor Sussman for clarification. MIT's academic honesty policy can be found at the following link: [Policies and Procedures](http://policies-procedures.mit.edu/).

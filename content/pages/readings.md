@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: c307f933-68f6-6430-75cd-35d5e0775150
 ---
-The readings for the class come primarily from the instructor's own text: Sussman, Joseph. {{% resource_link "3e3282db-9190-4bf3-8aa0-aa32951d8a65" "*Perspectives on Intelligent Transportation Systems (ITS)*" %}}. New York, NY: Springer, 2005. ISBN: 0387232575. Along with the sections listed by session, you should be sure to read the following sections as general reference: III.1, III.2, IV.2, IV.6, IV.10. Additional readings for each class are also provided.
+The readings for the class come primarily from the instructor's own text: Sussman, Joseph. [*Perspectives on Intelligent Transportation Systems (ITS)*](http://www.springeronline.com/sgw/cda/frontpage/0,11855,4-40109-22-35352196-0,00.html). New York, NY: Springer, 2005. ISBN: 0387232575. Along with the sections listed by session, you should be sure to read the following sections as general reference: III.1, III.2, IV.2, IV.6, IV.10. Additional readings for each class are also provided.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lec #
@@ -151,7 +151,7 @@ IV.9, IV.13
 
 Lieu, Henry. A Roadmap for the Research, Development and Deployment of Traffic Estimation and Prediction Systems for Real-Time and Off-Line Applications (TREPS, TREPS-P). Travel Management Team, Office of Operations RD&T, Federal Highway Administration, 2003. ({{% resource_link "12fc91ba-41c8-1bf6-c36e-7a806e1ebb68" "PDF" %}})
 
-Ben-Akiva, Moshe, Michel Bierlaire, Jon Bottom, Haris Koutsopoulos, and Rabi Mishalani. Development of a Route Guidance Generation System for Real-Time Application. ({{% resource_link "bc9e1458-4667-49f1-b6fc-7b3126a3d004" "PDF" %}})
+Ben-Akiva, Moshe, Michel Bierlaire, Jon Bottom, Haris Koutsopoulos, and Rabi Mishalani. Development of a Route Guidance Generation System for Real-Time Application. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.4203))
 
 Haitham Al-Deek, and Adib Kanafani. "Modeling the Benefits of Advanced Traveler Information Systems in Corridors with Incidents." *Transportation Research C* 1, no. 4 (1993): 303-324.
 
@@ -165,9 +165,9 @@ Watling, David, and Tom van Vuren. "The Modeling of Dynamic Route Guidance Syste
 
 See also a web page that focuses on two dynamic traffic assignment and route guidance generation software systems developed with FHWA funding:
 
-\- {{% resource_link "d2bd685a-52bb-443f-b986-d4885bfab0f6" "DYNASMART" %}}, originally developed by a team led by Hani Mahmassani at the University of Texas at Austin (and now being pursued at the University of Maryland);
+\- [DYNASMART](http://www.dynasmart.com/), originally developed by a team led by Hani Mahmassani at the University of Texas at Austin (and now being pursued at the University of Maryland);
 
-\- {{% resource_link "ded4af6f-4a07-49b6-ac63-8aa889c1245b" "DynaMIT" %}}, developed by a team led by Moshe Ben-Akiva at MIT.
+\- [DynaMIT](http://dynamit.mit.edu/), developed by a team led by Moshe Ben-Akiva at MIT.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -259,11 +259,11 @@ Dodder, Rebecca S. "A Systems Framework for Assessing Air Quality Impacts of ITS
 
 Additional Reading for those especially interested:
 
-Kayssi, Issam A. "Guidelines on Integrating Environmental Impact Evaluation in Future ITS Deployment Studies." March 4, 2004. ({{% resource_link "298a0063-9cfa-4602-85c2-11ef1c95f3f9" "PDF" %}})
+Kayssi, Issam A. "Guidelines on Integrating Environmental Impact Evaluation in Future ITS Deployment Studies." March 4, 2004. ([PDF](http://trid.trb.org/view.aspx?id=753742))
 
 Useful Web sites:
 
-{{% resource_link "ed5f35bc-d8d6-4ee6-a7d0-bc911ed0b010" "ITS Benefits and Costs website" %}}: 'Under Filter by Category, select Goals = Energy and Environment'
+[ITS Benefits and Costs website](http://www.benefitcost.its.dot.gov/): 'Under Filter by Category, select Goals = Energy and Environment'
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -311,17 +311,17 @@ II.1, II.3, IV.14
 
 *Boston*
 
-Commonwealth of Massachusetts. "Regional ITS Architecture for Metropolitan Boston." January 2005. ({{% resource_link "80fd0085-2164-4abc-9643-c01ced470e3a" "PDF" %}})
+Commonwealth of Massachusetts. "Regional ITS Architecture for Metropolitan Boston." January 2005. ([PDF](https://www.consystec.com/mass/boston/files/projectdocs/TTR_Boston_Final_Report_2011-12-20.pdf))
 
 MA Executive Office of Transportation. "A Framework for Thinking -- A Plan for Action: Transportation in the Commonwealth of Massachusetts." (Full Reprint)
 
 *Seattle*
 
-IBI Group. "Puget Sound Regional ITS Architecture." June 2001. ({{% resource_link "b3be3afa-3746-490f-9771-3cf8c449b84b" "PDF - 1.8MB" %}})
+IBI Group. "Puget Sound Regional ITS Architecture." June 2001. ([PDF - 1.8MB](https://ops.fhwa.dot.gov/its_arch_imp/sample_docs/Puget%20Sound%20WA_Reg%20Arch_Agreements.htm))
 
 IBI Group. "Puget Sound Regional Council Intelligent Transportation Systems Regional Architecture." December 18, 2008. 
 
-{{% resource_link "4d7c55df-fa2b-4190-aa94-d7ba261c9eed" "Puget Sound Regional Council" %}}. "Destination 2030," "Long Range Transportation Plan." Updated May 2001.
+[Puget Sound Regional Council](https://www.psrc.org/). "Destination 2030," "Long Range Transportation Plan." Updated May 2001.
 
 *Mexico*
 
@@ -337,13 +337,13 @@ Gakenheimer, R. L. T. Molina, et. al. "The MCMA Transportation System: Mobility 
 
 *Additional General Readings*
 
-Architecture Development Team. "National ITS Architecture Executive Summary." {{% resource_link "44ad9f30-7cba-4fa1-9f4f-7bef731ab3f0" "Federal Highway Administration" %}}. October 2003.
+Architecture Development Team. "National ITS Architecture Executive Summary." [Federal Highway Administration](http://www.fhwa.dot.gov/). October 2003.
 
-Architecture Development Team. "National ITS Architecture ITS Vision Statement." {{% resource_link "44ad9f30-7cba-4fa1-9f4f-7bef731ab3f0" "Federal Highway Administration" %}}. October 2003.
+Architecture Development Team. "National ITS Architecture ITS Vision Statement." [Federal Highway Administration](http://www.fhwa.dot.gov/). October 2003.
 
-{{% resource_link "986cd96a-05ef-49a1-af8b-7f25f41dc89a" "Department of Transportation" %}}. "FHWA Rule on ITS Architecture and Standards." January 2001.
+[Department of Transportation](http://www.dot.gov/). "FHWA Rule on ITS Architecture and Standards." January 2001.
 
-{{% resource_link "986cd96a-05ef-49a1-af8b-7f25f41dc89a" "Department of Transportation" %}}. "FTA National ITS Architecture Policy on Transit Projects." January 2001.
+[Department of Transportation](http://www.dot.gov/). "FTA National ITS Architecture Policy on Transit Projects." January 2001.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
