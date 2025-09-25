@@ -4,6 +4,8 @@ description: This resource includes the recommendations for Federal ITS Program.
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/7c5b913bb7b54e506417a7a60e9631ee_horan.pdf
 file_size: 176391
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
