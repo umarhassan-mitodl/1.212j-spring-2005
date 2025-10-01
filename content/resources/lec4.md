@@ -12,6 +12,8 @@ description: 'This resource includes the following topics:
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/728541574805ce9945370f9089bcc47d_lec4.pdf
 file_size: 639774
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
