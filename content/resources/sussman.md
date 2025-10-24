@@ -7,8 +7,6 @@ description: This paper examines the opportunities and challenges for policies i
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/82cd4ffe8046137e84f6dcf2f6576ae2_sussman.pdf
 file_size: 319275
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

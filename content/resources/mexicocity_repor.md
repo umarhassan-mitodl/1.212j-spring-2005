@@ -5,8 +5,6 @@ description: This resource includes a report on Regioanl Operation Planning and 
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/695c7367a4ee87a9bfe3c1ae8c928264_mexicocity_repor.pdf
 file_size: 176363
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

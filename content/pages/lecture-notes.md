@@ -3,8 +3,6 @@ content_type: page
 description: Professor Sussman's lectures, along with lectures from visiting guests,
   are provided here. All guest lectures are courtesy of the lecturer named, and used
   with permission.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

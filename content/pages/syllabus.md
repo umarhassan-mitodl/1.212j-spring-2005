@@ -2,8 +2,6 @@
 content_type: page
 description: Syllabus section contains an overview of course introduction, students
   requirements, gradings, and academic honesty policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
